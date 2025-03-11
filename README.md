@@ -18,12 +18,12 @@ I'm studying JavaScript, Git and QA.
 </div>
 
 ## Estou aprendendo
-<!DOCTYPE html> <!-- Declaração do tipo de documento -->
-<html lang="pt"> <!-- Início do documento HTML e definição do idioma -->
+<!DOCTYPE html> 
+<html lang="pt"> 
 <head>
-    <meta charset="UTF-8"> <!-- Definir a codificação de caracteres -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Tornar o site responsivo -->
-    <title>Meu Documento HTML</title> <!-- Título da página -->
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Meu Documento HTML</title> 
 </head>
 <body>
     <i class="devicon-javascript-plain"></i>
@@ -32,7 +32,7 @@ I'm studying JavaScript, Git and QA.
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </body>
-</html> <!-- Fim do documento HTML -->
+</html> 
 
             
           
