@@ -26,7 +26,8 @@ I'm studying JavaScript, Git and QA.
 </head>
 <body>
     
-<i class="devicon-javascript-plain"></i>
+<i class="devicon-javascript-plain">
+</i>
              
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
           
