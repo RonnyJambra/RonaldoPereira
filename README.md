@@ -8,3 +8,6 @@ Hi world! I'm noob on Tecnology area and learning a lot! But I've more than 25 y
 
 I'm studying JavaScript, Git and QA. 
 <i class="devicon-coffeescript-original-wordmark colored"></i>
+
+<i class="devicon-coffeescript-original"></i>
+
