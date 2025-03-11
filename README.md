@@ -26,11 +26,12 @@ I'm studying JavaScript, Git and QA.
     <title>Meu Documento HTML</title> 
 </head>
 <body>
-    <i class="devicon-javascript-plain"></i>
-                    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<i class="devicon-javascript-plain"></i>
+             
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+
 </body>
 </html> 
 
