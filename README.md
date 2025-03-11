@@ -7,7 +7,9 @@ Hi world! I'm noob on Tecnology area and learning a lot! But I've more than 25 y
 - 4 years: Metallurgic (Shop floor).
 
 I'm studying JavaScript, Git and QA. 
-<i class="devicon-coffeescript-original-wordmark colored"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 
 <i class="devicon-coffeescript-original"></i>
 
