@@ -18,12 +18,23 @@ I'm studying JavaScript, Git and QA.
 </div>
 
 ## Estou aprendendo
-
-            <i class="devicon-javascript-plain"></i>
+<!DOCTYPE html> <!-- Declaração do tipo de documento -->
+<html lang="pt"> <!-- Início do documento HTML e definição do idioma -->
+<head>
+    <meta charset="UTF-8"> <!-- Definir a codificação de caracteres -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Tornar o site responsivo -->
+    <title>Meu Documento HTML</title> <!-- Título da página -->
+</head>
+<body>
+    <i class="devicon-javascript-plain"></i>
                     
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+</body>
+</html> <!-- Fim do documento HTML -->
+
+            
           
 
                     
