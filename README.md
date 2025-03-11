@@ -25,6 +25,7 @@ I'm studying JavaScript, Git and QA.
     <meta name="viewport" content="width=device-width, initial-scale=0.2"> 
 </head>
 <body>
+    
 <i class="devicon-javascript-plain"></i>
              
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
