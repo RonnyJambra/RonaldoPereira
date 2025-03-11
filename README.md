@@ -23,7 +23,6 @@ I'm studying JavaScript, Git and QA.
 <head>
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=0.2"> 
-    <title>Meu Documento HTML</title> 
 </head>
 <body>
 <i class="devicon-javascript-plain"></i>
