@@ -5,3 +5,5 @@ Hi world! I'm noob on Tecnology area and learning a lot! But I've more than 25 y
 - 7 years: Quality Engineer at Automakers (Fiat-Chrysler and Peugeot-Citroën);
 - 4 years: Metrologist (plastics injected autoparts);
 - 4 years: Metallurgic (Shop floor).
+
+I'm studying JavaScript, Git and QA. <i class="devicon-coffeescript-original-wordmark colored"></i>
