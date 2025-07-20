@@ -13,7 +13,7 @@
 - 👨‍🔧 7 years as **Quality Manager** (Bosch, Tecfil, Minebea)
 - 🚘 7 years as **Supplier Quality Engineer** (Fiat-Chrysler & Peugeot-Citroën)
 - 🧪 4 years in **Metrology** and 4 years in **Metallurgy**
-- 🌐 Currently at **Garrett Motion** as **Senior Quality Engineer**, with global audit experience (VDA 6.3)
+- 🌐 Currently at **Garrett Motion** as **Senior Quality Engineer**, with international audit experience (VDA 6.3)
 
 ---
 
@@ -40,10 +40,7 @@ Currently learning:
 - 🏭 B.Sc. in Industrial Production – FATEC  
 - 🎓 Postgrad in Production Engineering – UNINTER  
 - 🎓 Postgrad in Quality Management – Oswaldo Cruz  
-- 🏠 **Real Estate Transaction Technician** – CRECI 292.771  
-- 🏷️ **Certified Appraiser** – CNAI 050.636  
-- 🛍️ **Commercial Technician** – ETEC *(in progress)*  
-- 📖 Theology graduate  
+- 🛍️ Commercial Technician – ETEC *(in progress)*  
 - 🎙️ Skilled public speaker and trainer  
 
 ---
@@ -51,10 +48,9 @@ Currently learning:
 ### 📺 Content Creation
 
 🎥 I run a YouTube channel with **8,700+ subscribers**, where I share insights on:
-
-- Quality management systems
-- Industry tools (FMEA, PPAP, APQP, etc.)
-- Process improvement  
+- Quality Management Systems
+- Industry tools (FMEA, PPAP, APQP, SPC, MSA etc.)
+- Lean Manufacturing  
 👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
 
 ---
@@ -62,7 +58,6 @@ Currently learning:
 ### 🏡 Real Estate Business
 
 In parallel with my engineering career, I also work in the real estate market:
-
 - Licensed **Real Estate Agent** (CRECI)
 - Certified **Property Appraiser** (CNAI)  
 👉 [Imobilima Website](https://imobilima.wordpress.com/)
