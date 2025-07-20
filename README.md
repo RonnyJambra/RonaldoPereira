@@ -1,16 +1,15 @@
 # Ronaldo Pereira
 
-Hi, world! 👋 I'm transitioning into the Tech field and learning fast! Although I'm a beginner in programming, I bring over 25 years of experience from the industry, especially in the **Quality** and **Manufacturing** areas:
+Hi, world! 👋 I'm transitioning into the Tech field and learning fast! I bring over 25 years of experience from the industry, especially in the **Quality** area:
 
-- ⚙️ 7 years as Quality/HSE Manager (Bosch, Tecfil, U-Shin)
+- ⚙️ 7 years as Quality Manager (Bosch, Tecfil, Minebea)
 - 🚗 7 years as Quality Engineer at Automakers (Fiat-Chrysler and Peugeot-Citroën)
-- 🧪 4 years in Metrology (plastic injected auto parts)
-- 🔩 4 years in Metallurgy (shop floor)
+- 🧪 4 years in Metrology and 4 years in Metallurgy
 
-🎥 I also run a **YouTube channel** with **8,500+ subscribers**, where I share practical content about **Quality Management**, tools, and industry insights:  
+🎥 I also run a **YouTube channel** with **8,700+ subscribers**, where I share practical content about **Quality Management**, tools, and industry insights:  
 👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
 
-🏠 In parallel, I work as a **real estate agent (CRECI 292771)** and **property evaluator (CNAI 050636)**, with experience in **property valuation and negotiation**.
+🏠 In parallel, I work as a **Real Estate Agent (CRECI 292771)** and **Property Appraiser (CNAI 050636)**, with experience in **property valuation and negotiation**.
 
 Currently studying **JavaScript**, **Git**, and **Quality Assurance (QA)** to transition into **Tech QA**.
 
