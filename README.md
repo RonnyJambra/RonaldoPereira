@@ -4,8 +4,6 @@
   <strong>Senior Quality Engineer | QA-to-Tech Transitioner | Real Estate Appraiser | Content Creator</strong><br>
 </p>
 
----
-
 ### ⚙️ Background
 
 - 🏭 25+ years in the industry, specializing in **Quality Engineering**
@@ -13,8 +11,6 @@
 - 🚘 7 years as **Supplier Quality Engineer** (Fiat-Chrysler & Peugeot-Citroën)
 - 🧪 4 years in **Metrology** and 4 years in **Metallurgy**
 - 🌐 Currently at **Garrett Motion** as **Senior Quality Engineer**, with international audit experience (VDA 6.3)
-
----
 
 ### 💻 Transitioning to Tech QA
 
@@ -30,8 +26,6 @@ Learning:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 
----
-
 ### 🎓 Education
 
 - 🎓 B.Sc. in Information Technology – UNIVESP *(in progress)*  
@@ -41,8 +35,6 @@ Learning:
 - 🎓 Postgrad in Quality Management – Oswaldo Cruz  
 - 🛍️ Commercial Technician – ETEC *(in progress)*  
 
----
-
 ### 📺 Content Creation
 
 🎥 I run a YouTube channel with **8,700+ subscribers**, where I share insights on:
@@ -51,16 +43,12 @@ Learning:
 - Lean Manufacturing  
 👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
 
----
-
 ### 🏡 Real Estate Business
 
 In parallel with my engineering career, I also work in the real estate market:
 - Licensed **Real Estate Agent** (CRECI 292.771)
 - Certified **Property Appraiser** (CNAI 050.636)  
 👉 [Imobilima Website](https://imobilima.wordpress.com/)
-
----
 
 ### 📫 Let’s Connect
 
