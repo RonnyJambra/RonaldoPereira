@@ -6,10 +6,9 @@ Hi, world! 👋 I'm transitioning into the Tech field and learning fast! I bring
 - 🚗 7 years as Quality Engineer at Automakers (Fiat-Chrysler and Peugeot-Citroën)
 - 🧪 4 years in Metrology and 4 years in Metallurgy
 
-🎥 I also run a **YouTube channel** with **8,700+ subscribers**, where I share practical content about **Quality Management**, tools, and industry insights:  
-👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
+🎥 I also run a **YouTube channel** with **8,700+ subscribers**, where I share practical content about **Quality Management**, tools, and industry insights: 👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
 
-🏠 In parallel, I work as a **Real Estate Agent (CRECI 292771)** and **Property Appraiser (CNAI 050636)**, with experience in **property valuation and negotiation**.
+🏠 In parallel, I work as a **Real Estate Agent (CRECI 292771)** and **Property Appraiser (CNAI 050636)**, with experience in **property valuation and negotiation**: 👉 [Imobilima](https://imobilima.wordpress.com/)
 
 Currently studying **JavaScript**, **Git**, and **Quality Assurance (QA)** to transition into **Tech QA**.
 
