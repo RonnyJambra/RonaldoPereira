@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Senior Quality Engineer | QA-to-Tech Transitioner | Real Estate Appraiser | Content Creator</strong><br>
-  <em>25+ years connecting industry, technology, and people through quality and continuous learning.</em>
 </p>
 
 ---
