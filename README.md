@@ -1,32 +1,75 @@
-# Ronaldo Pereira
+<h1 align="center">Hi, I’m Ronaldo Pereira 👋</h1>
 
-Hi, world! 👋 I'm transitioning into the Tech field and learning fast! I bring over 25 years of experience from the industry, especially in the **Quality** area:
-
-- ⚙️ 7 years as Quality Manager (Bosch, Tecfil, Minebea)
-- 🚗 7 years as Quality Engineer at Automakers (Fiat-Chrysler and Peugeot-Citroën)
-- 🧪 4 years in Metrology and 4 years in Metallurgy
-
-🎥 I also run a **YouTube channel** with **8,700+ subscribers**, where I share practical content about **Quality Management**, tools, and industry insights: 👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
-
-🏠 In parallel, I work as a **Real Estate Agent (CRECI 292771)** and **Property Appraiser (CNAI 050636)**, with experience in **property valuation and negotiation**: 👉 [Imobilima](https://imobilima.wordpress.com/)
-
-Currently studying **JavaScript**, **Git**, and **Quality Assurance (QA)** to transition into **Tech QA**.
+<p align="center">
+  <strong>Senior Quality Engineer | QA-to-Tech Transitioner | Real Estate Appraiser | Content Creator</strong><br>
+  <em>25+ years connecting industry, technology, and people through quality and continuous learning.</em>
+</p>
 
 ---
 
-## 🛠️ Currently Learning
+### ⚙️ Professional Background
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-</div>
+- 🏭 25+ years in the industry, specializing in **Quality Engineering**
+- 👨‍🔧 7 years as **Quality Manager** (Bosch, Tecfil, Minebea)
+- 🚘 7 years as **Supplier Quality Engineer** (Fiat-Chrysler & Peugeot-Citroën)
+- 🧪 4 years in **Metrology** and 4 years in **Metallurgy**
+- 🌐 Currently at **Garrett Motion** as **Senior Quality Engineer**, with global audit experience (VDA 6.3)
 
 ---
 
-## 📫 Contact
+### 💻 Transitioning to Tech QA
+
+I'm pivoting to **Tech QA**, combining my strong background in quality systems with modern tools in software testing and automation.
+
+Currently learning:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+
+---
+
+### 🎓 Education
+
+- 🎓 B.Sc. in Information Technology – UNIVESP *(in progress)*  
+- 📐 B.Sc. in Mathematics – Unijales  
+- 🏭 B.Sc. in Industrial Production – FATEC  
+- 🎓 Postgrad in Production Engineering – UNINTER  
+- 🎓 Postgrad in Quality Management – Oswaldo Cruz  
+- 🏠 **Real Estate Transaction Technician** – CRECI 292.771  
+- 🏷️ **Certified Appraiser** – CNAI 050.636  
+- 🛍️ **Commercial Technician** – ETEC *(in progress)*  
+- 📖 Theology graduate  
+- 🎙️ Skilled public speaker and trainer  
+
+---
+
+### 📺 Content Creation
+
+🎥 I run a YouTube channel with **8,700+ subscribers**, where I share insights on:
+
+- Quality management systems
+- Industry tools (FMEA, PPAP, APQP, etc.)
+- Process improvement  
+👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
+
+---
+
+### 🏡 Real Estate Business
+
+In parallel with my engineering career, I also work in the real estate market:
+
+- Licensed **Real Estate Agent** (CRECI)
+- Certified **Property Appraiser** (CNAI)  
+👉 [Imobilima Website](https://imobilima.wordpress.com/)
+
+---
+
+### 📫 Let’s Connect
 
 <div>
   <a href="https://www.youtube.com/@PlayIndustrial" target="_blank">
@@ -40,5 +83,9 @@ Currently studying **JavaScript**, **Git**, and **Quality Assurance (QA)** to tr
   </a>
   <a href="https://www.linkedin.com/in/qualidade-sqe-lean-eqf-fmea-vda-auditor-iso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>   
+  </a>
 </div>
+
+---
+
+<sub>*Thanks for visiting! Feel free to connect if you're into Quality, Tech, or Real Estate!* 🤝</sub>
