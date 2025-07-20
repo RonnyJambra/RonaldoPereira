@@ -7,6 +7,11 @@ Hi, world! 👋 I'm transitioning into the Tech field and learning fast! Althoug
 - 🧪 4 years in Metrology (plastic injected auto parts)
 - 🔩 4 years in Metallurgy (shop floor)
 
+🎥 I also run a **YouTube channel** with **8,500+ subscribers**, where I share practical content about **Quality Management**, tools, and industry insights:  
+👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
+
+🏠 In parallel, I work as a **real estate agent (CRECI 292771)** and **property evaluator (CNAI 050636)**, with experience in **property valuation and negotiation**.
+
 Currently studying **JavaScript**, **Git**, and **Quality Assurance (QA)** to transition into **Tech QA**.
 
 ---
@@ -39,6 +44,3 @@ Currently studying **JavaScript**, **Git**, and **Quality Assurance (QA)** to tr
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>   
 </div>
-    
-
-                    
