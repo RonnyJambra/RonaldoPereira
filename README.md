@@ -6,7 +6,7 @@
 
 ---
 
-### ⚙️ Professional Background
+### ⚙️ Background
 
 - 🏭 25+ years in the industry, specializing in **Quality Engineering**
 - 👨‍🔧 7 years as **Quality Manager** (Bosch, Tecfil, Minebea)
@@ -20,7 +20,7 @@
 
 I'm pivoting to **Tech QA**, combining my strong background in quality systems with modern tools in software testing and automation.
 
-Currently learning:
+Learning:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
@@ -40,15 +40,14 @@ Currently learning:
 - 🎓 Postgrad in Production Engineering – UNINTER  
 - 🎓 Postgrad in Quality Management – Oswaldo Cruz  
 - 🛍️ Commercial Technician – ETEC *(in progress)*  
-- 🎙️ Skilled public speaker and trainer  
 
 ---
 
 ### 📺 Content Creation
 
 🎥 I run a YouTube channel with **8,700+ subscribers**, where I share insights on:
-- Quality Management Systems
-- Industry tools (FMEA, PPAP, APQP, SPC, MSA etc.)
+- Quality Management Systems (ISO9001, IATF16949, VDA6.3)
+- Industry tools (FMEA, PPAP, APQP, SPC, MSA, 8D etc.)
 - Lean Manufacturing  
 👉 [PlayIndustrial on YouTube](https://www.youtube.com/@PlayIndustrial)
 
@@ -57,8 +56,8 @@ Currently learning:
 ### 🏡 Real Estate Business
 
 In parallel with my engineering career, I also work in the real estate market:
-- Licensed **Real Estate Agent** (CRECI)
-- Certified **Property Appraiser** (CNAI)  
+- Licensed **Real Estate Agent** (CRECI 292.771)
+- Certified **Property Appraiser** (CNAI 050.636)  
 👉 [Imobilima Website](https://imobilima.wordpress.com/)
 
 ---
