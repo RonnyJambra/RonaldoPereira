@@ -25,15 +25,19 @@ I'm pivoting to **Tech QA**, combining my strong background in quality systems w
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=Scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+![GreenBelt](https://img.shields.io/badge/Green%20Belt-Lean%20Six%20Sigma-brightgreen?style=for-the-badge) 
+![LeanManufacturing](https://img.shields.io/badge/Lean-Manufacturing-yellow?style=for-the-badge)
+
 ![FMEA](https://img.shields.io/badge/FMEA-Quality%20Tool-blue?style=for-the-badge) 
 ![VDA6.3](https://img.shields.io/badge/VDA%206.3-Audit%20Standard-blue?style=for-the-badge) 
 ![ISO9001](https://img.shields.io/badge/ISO%209001-Quality%20Management-blue?style=for-the-badge) 
 ![IATF16949](https://img.shields.io/badge/IATF%2016949-Automotive%20Standard-blue?style=for-the-badge) 
-![GreenBelt](https://img.shields.io/badge/Green%20Belt-Lean%20Six%20Sigma-brightgreen?style=for-the-badge) 
-![LeanManufacturing](https://img.shields.io/badge/Lean-Manufacturing-yellow?style=for-the-badge)
+
 
 ---
 
