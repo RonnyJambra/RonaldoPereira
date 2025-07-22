@@ -28,6 +28,16 @@ I'm pivoting to **Tech QA**, combining my strong background in quality systems w
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=Scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![FMEA](https://img.shields.io/badge/FMEA-Quality%20Tool-blue?style=for-the-badge)
+![VDA6.3](https://img.shields.io/badge/VDA%206.3-Audit%20Standard-blue?style=for-the-badge)
+![PPAP](https://img.shields.io/badge/PPAP-Automotive%20Core%20Tool-blue?style=for-the-badge)
+![APQP](https://img.shields.io/badge/APQP-Advanced%20Planning-blue?style=for-the-badge)
+![SPC](https://img.shields.io/badge/SPC-Statistical%20Control-blue?style=for-the-badge)
+![ISO9001](https://img.shields.io/badge/ISO%209001-Quality%20Management-blue?style=for-the-badge)
+![IATF16949](https://img.shields.io/badge/IATF%2016949-Automotive%20Standard-blue?style=for-the-badge)
+![ISO14001](https://img.shields.io/badge/ISO%2014001-Environmental%20Management-green?style=for-the-badge)
+![GreenBelt](https://img.shields.io/badge/Green%20Belt-Lean%20Six%20Sigma-brightgreen?style=for-the-badge)
+![LeanManufacturing](https://img.shields.io/badge/Lean-Manufacturing-yellow?style=for-the-badge)
 
 ---
 
