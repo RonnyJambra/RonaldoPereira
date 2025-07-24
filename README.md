@@ -85,7 +85,7 @@ In parallel with my engineering career, I also work in the real estate market:
   <a href="mailto:ronaldo.lp.oficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/qualidade-sqe-lean-eqf-fmea-vda-auditor-iso/" target="_blank">
+  <a href="https://www.linkedin.com/in/ronaldo-quality-manager/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
     <a href="https://wa.me/5511915284021" target="_blank">
